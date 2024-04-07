@@ -1,2 +1,2 @@
 # index
-This is a repositary of git hub
+This is a repositary of git hub..
